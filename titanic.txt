@@ -1,4 +1,4 @@
-Project 01-Basic Data Analysis in R
+Project 01 - Basic Data Analysis with R
 
 Titanic Survivors
 
