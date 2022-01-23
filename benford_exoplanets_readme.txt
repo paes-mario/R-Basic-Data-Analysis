@@ -4,7 +4,18 @@
 	For the project it was used the benford_exoplanet.csv file
 	The dataset was tested for frequency of first digits
 	The results showed that the dataset follows closely the Benford's Law
-	The conclusion is that the dataset is an authentic one and is really derived of Kepler data  
+	The conclusion is that the dataset is an authentic one and is really derived of Kepler data
+	
+	RESULTS:
+	Occurrences of digit 1 :   262496
+	Occurrences of digit 2 :   148709
+	Occurrences of digit 3 :   107102
+	Occurrences of digit 4 :    84250
+	Occurrences of digit 5 :    68565
+	Occurrences of digit 6 :    58089
+	Occurrences of digit 7 :    50003
+	Occurrences of digit 8 :    42977
+	Occurrences of digit 9 :    37044
 
 
 	ABOUT DATASET
